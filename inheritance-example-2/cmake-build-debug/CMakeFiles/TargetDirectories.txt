@@ -1,0 +1,3 @@
+C:/Users/phuch/CLionProjects/Assets/inheritance-example-2/cmake-build-debug/CMakeFiles/inheritance_example_2.dir
+C:/Users/phuch/CLionProjects/Assets/inheritance-example-2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/phuch/CLionProjects/Assets/inheritance-example-2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
